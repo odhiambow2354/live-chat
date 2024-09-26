@@ -12,6 +12,7 @@ This is a real-time chat application built using React.js for the frontend and F
 ## Folder Structure
 
 src/
+   
    ├── components/ # Reusable UI components (e.g., ChatBox, ChatUser)
 
    ├── config/ # Firebase configuration
