@@ -12,11 +12,15 @@ This is a real-time chat application built using React.js for the frontend and F
 ## Folder Structure
 
 src/
-├── components/ # Reusable UI components (e.g., ChatBox, ChatUser)
-├── config/ # Firebase configuration
-├── context/ # App-wide state management using React Context API
-├── lib/ # Helper functions (e.g., file upload utilities)
-├── pages/ # Pages and main application views
+   ├── components/ # Reusable UI components (e.g., ChatBox, ChatUser)
+
+   ├── config/ # Firebase configuration
+
+   ├── context/ # App-wide state management using React Context API
+
+   ├── lib/ # Helper functions (e.g., file upload utilities)
+
+   ├── pages/ # Pages and main application views
 
 ## Content Analysis Integration
 
