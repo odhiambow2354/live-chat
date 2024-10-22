@@ -19,12 +19,17 @@ import {
 import { toast } from "react-toastify";
 
 const firebaseConfig = {
-  apiKey: apiKey,
-  authDomain: "chat-app-eb355.firebaseapp.com",
-  projectId: "chat-app-eb355",
-  storageBucket: "chat-app-eb355.appspot.com",
-  messagingSenderId: "262699597847",
-  appId: "1:262699597847:web:a049f6193d269a68599c52",
+    apiKey: "AIzaSyAO9bj-bQcXWHzgr5csbXk7Ctb4xiZwYfM",
+
+  authDomain: "live-chat-214c9.firebaseapp.com",
+
+  projectId: "live-chat-214c9",
+
+  storageBucket: "live-chat-214c9.appspot.com",
+
+  messagingSenderId: "756539299286",
+
+  appId: "1:756539299286:web:19e188918636634b34c077",
 };
 
 // Initialize Firebase
@@ -42,7 +47,7 @@ const signup = async (username, email, password) => {
       email,
       name: "",
       avatar: "",
-      bio: "I'm wyccliffe a self motivated person with high self-esteem",
+      bio: "Hey, I'm using Live-Chat",
       lastSeen: Date.now(),
     });
 

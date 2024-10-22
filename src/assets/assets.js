@@ -1,6 +1,7 @@
 import avatar_icon from "./avatar_icon.png";
 import gallery_icon from "./gallery_icon.png";
 import help_icon from "./help_icon.png";
+import background from "./background.png";
 
 import logo_big from "./logo_big.png";
 import logo from "./logo.png";
@@ -25,6 +26,7 @@ const assets = {
   menu_icon,
   arrow_icon,
   green_dot,
+  background,
 };
 
 export default assets;
